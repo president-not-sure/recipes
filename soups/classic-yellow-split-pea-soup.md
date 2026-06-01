@@ -18,7 +18,7 @@ tags: [soups, beans, peas, vegetarian, proteins]
 - 1 bay leaf
 - 1 to 1½ tsp salt (if using unsalted broth)
 - ½ to 1 tsp black pepper (to taste)
-- Optional: lemon juice
+- Optional: 1 tbsp lemon juice
 
 ## Preparation
 
