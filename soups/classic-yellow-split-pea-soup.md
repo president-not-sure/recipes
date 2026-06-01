@@ -1,10 +1,3 @@
----
-title: Classic Yellow Split Pea Soup
-category: soups
-difficulty: easy
-tags: [soups, beans, peas, vegetarian, proteins]
----
-
 # Classic Yellow Split Pea Soup
 
 ## Ingredients
@@ -13,8 +6,8 @@ tags: [soups, beans, peas, vegetarian, proteins]
 - 2 cups (300 g) diced onions
 - 1 cup (130 g) diced carrots
 - 1 cup (100 g) diced celery
-- 2 tbsp butter or olive oil
-- 8 cups chicken broth
+- 2 tbsp oil
+- 8 cups chicken or vegetable broth
 - 1 bay leaf
 - 1 to 1½ tsp salt (if using unsalted broth)
 - ½ to 1 tsp black pepper (to taste)
@@ -30,7 +23,7 @@ tags: [soups, beans, peas, vegetarian, proteins]
 1. **Heat** the butter or olive oil in a large pot over medium heat.
 2. **Add** the onions, carrots, and celery.
 3. **Sauté** the mirepoix until softened.
-4. **Add** the rinsed peas, chicken broth, and bay leaf to the pot.
+4. **Add** the rinsed peas, broth, and bay leaf to the pot.
 5. **Bring** the mixture to a boil.
 6. **Reduce** the heat to low immediately.
 7. **Cover** the pot partially with a lid.
@@ -38,4 +31,3 @@ tags: [soups, beans, peas, vegetarian, proteins]
 9. **Stir** in the salt and black pepper. (Always season at the end so the peas can soften properly during cooking).
 10. **Remove** from heat.
 11. **Stir** in the lemon juice right before serving.
-
