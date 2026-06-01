@@ -1,0 +1,14 @@
+# Repomix outputs and configs
+repomix-output.xml
+repomix-output.txt
+repomix-output.md
+repomix.config.json
+
+# Operating System files (prevents hidden folder clutter)
+.DS_Store
+Thumbs.db
+
+# Editor / IDE specific files
+.vscode/
+.idea/
+*.swp
