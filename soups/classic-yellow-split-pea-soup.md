@@ -1,5 +1,9 @@
 # Classic Yellow Split Pea Soup
 
+- **Servings:** 6–8 portions
+- **Prep Time:** 10 minutes
+- **Cook Time:** 1 hour
+
 ## Ingredients
 
 - 2 cups (400 g) dried yellow split peas
