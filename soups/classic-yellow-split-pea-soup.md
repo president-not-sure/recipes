@@ -3,8 +3,8 @@
 ## Ingredients
 
 - 2 cups (400 g) dried yellow split peas
-- 2 cups (300 g) diced onions
-- 1 cup (130 g) diced carrots
+- 2 cups (200 g) diced onions
+- 1 cup (100 g) diced carrots
 - 1 cup (100 g) diced celery
 - 2 tbsp oil
 - 8 cups chicken or vegetable broth
